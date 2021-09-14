@@ -383,6 +383,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .heading-section {
   font-size: 50px;
+  color: white;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .btn {
   padding: 15px 30px;
